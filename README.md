@@ -1,6 +1,6 @@
 # MoodLens
 
-MoodLens is an innovative web application that leverages the power of AWS Rekognition to analyze and interpret users' emotions through their photos. It detects a range of moods by examining facial expressions in user-uploaded images, providing instant mood insights in a fun and interactive way.
+MoodLens is a simple serverless web application that leverages the power of AWS Rekognition to analyze and interpret users' emotions through their photos. It detects a range of moods by examining facial expressions in user-uploaded images, providing instant mood insights in a fun and interactive way.
 
 ## How It Works
 
