@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-moodlens-dev-200205-authRole",
+      "UnauthRoleArn": "arn:aws:iam::166334426167:role/amplify-moodlens-dev-200205-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::166334426167:role/amplify-moodlens-dev-200205-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-moodlens-dev-200205-deployment",
+      "UnauthRoleName": "amplify-moodlens-dev-200205-unauthRole",
+      "StackName": "amplify-moodlens-dev-200205",
+      "StackId": "arn:aws:cloudformation:us-east-1:166334426167:stack/amplify-moodlens-dev-200205/c6877a30-c13c-11ee-ba37-0a442859de45",
+      "AmplifyAppId": "d24s41r5qhcy0a"
+    }
+  }
+}
