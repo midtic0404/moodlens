@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "paths": {
+    "/mood": {
+      "name": "/mood",
+      "lambdaFunction": "getMood",
+      "permissions": {
+        "setting": "private",
+        "auth": [
+          "create",
+          "read",
+          "update",
+          "delete"
+        ]
+      }
+    }
+  }
+}
