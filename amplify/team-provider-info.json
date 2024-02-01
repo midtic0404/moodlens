@@ -24,6 +24,12 @@
       },
       "api": {
         "moodlens": {}
+      },
+      "hosting": {
+        "amplifyhosting": {
+          "appId": "d24s41r5qhcy0a",
+          "type": "cicd"
+        }
       }
     }
   }
